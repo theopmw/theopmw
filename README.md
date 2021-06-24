@@ -63,4 +63,4 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD%20-%23450135.svg?&style=for-the-badge&logo=Adobe%20XD&logoColor=F75EEE) -->
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
 
-![theopmw on GitHb](https://github-readme-stats.vercel.app/api?username=theopmwn&show_icons=true?count_private=true&icon_color=d56627&bg_color=1e1e1e&title_color=01579B&text_color=ffffff)
+![theopmw on GitHb](https://github-readme-stats.vercel.app/api?username=theopmw&show_icons=true?count_private=true&icon_color=d56627&bg_color=1e1e1e&title_color=01579B&text_color=ffffff)
