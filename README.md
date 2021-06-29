@@ -25,7 +25,7 @@
 ### Version Control | Coding
 
 ![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=for-the-badge&logo=Git&logoColor=F05032)
-[![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/theopmw
+[![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/theopmw)
 ![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![Gitpod](https://img.shields.io/badge/Gitpod%20-%231D1D1D.svg?&style=for-the-badge&logo=Gitpod&logoColor=1AA6E4)
 ![repl.it](https://img.shields.io/badge/repl.it%20-%23101B30.svg?&style=for-the-badge&logo=repl.it&logoColor=93969C)
@@ -34,7 +34,7 @@
 
 ### Social
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/https://www.linkedin.com/in/theowrightlondon/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/theowrightlondon/)
 ![Slack](https://img.shields.io/badge/Slack%20-%234A154B.svg?&style=for-the-badge&logo=Slack&logoColor=FFFFFF)
 <!-- [![YouTube](https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=FFFFFF)](https://www.youtube.com/)
 
@@ -58,11 +58,12 @@
 
 ### Design | Wireframes
 
+![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
 <!-- ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop%20-%23001C25.svg?&style=for-the-badge&logo=Adobe%20Photoshop&logoColor=00C3F8)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator%20-%23251200.svg?&style=for-the-badge&logo=Adobe%20Illustrator&logoColor=F87900)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects%20-%231E003E.svg?&style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=CC8DF8)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD%20-%23450135.svg?&style=for-the-badge&logo=Adobe%20XD&logoColor=F75EEE) -->
-![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
+
 
 ---
 
