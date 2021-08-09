@@ -68,3 +68,5 @@
 ---
 
 ![theopmw on GitHb](https://github-readme-stats.vercel.app/api?username=theopmw&show_icons=true?count_private=true&icon_color=d56627&bg_color=1e1e1e&title_color=01579B&text_color=ffffff)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theopmw&layout=compact&langs_count=8&theme=gruvbox)
+
