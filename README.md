@@ -19,8 +19,8 @@
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome%20-%23339AF0.svg?&style=for-the-badge&logo=Font%20Awesome&logoColor=FFFFFF)
 <!-- ![Sass](https://img.shields.io/badge/Sass%20-%23CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=FFFFFF) -->
 <!-- ![Leaflet](https://img.shields.io/badge/Leaflet%20-%23199900.svg?&style=for-the-badge&logo=Leaflet&logoColor=C0E970) -->
-<!-- ![D3.js](https://img.shields.io/badge/D3.js%20-%23BD5350.svg?&style=for-the-badge&logo=D3.js&logoColor=F9A03C)
-![Stripe](https://img.shields.io/badge/Stripe%20-%23646EDE.svg?&style=for-the-badge&logo=Stripe&logoColor=FFFFFF) -->
+<!-- ![D3.js](https://img.shields.io/badge/D3.js%20-%23BD5350.svg?&style=for-the-badge&logo=D3.js&logoColor=F9A03C) -->
+![Stripe](https://img.shields.io/badge/Stripe%20-%23646EDE.svg?&style=for-the-badge&logo=Stripe&logoColor=FFFFFF)
 
 ### Version Control | Coding
 
@@ -36,22 +36,22 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/theowrightlondon/)
 ![Slack](https://img.shields.io/badge/Slack%20-%234A154B.svg?&style=for-the-badge&logo=Slack&logoColor=FFFFFF)
-<!-- [![YouTube](https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=FFFFFF)](https://www.youtube.com/)
+<!-- [![YouTube](https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=FFFFFF)](https://www.youtube.com/) -->
 
 
 ### Hosting | SaaS | PaaS
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900)
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
-![WordPress](https://img.shields.io/badge/WordPress%20-%23207196.svg?&style=for-the-badge&logo=WordPress&logoColor=FFFFFF) -->
+<!-- ![WordPress](https://img.shields.io/badge/WordPress%20-%23207196.svg?&style=for-the-badge&logo=WordPress&logoColor=FFFFFF) -->
 
 ### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=for-the-badge&logo=MongoDB&logoColor=47A248)
-<!-- ![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
 ![SQLite](https://img.shields.io/badge/SQLite%20-%23003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=FFFFFF)
 
-### CI | Testing
+<!-- ### CI | Testing
 
 ![Travis CI](https://img.shields.io/badge/Travis%20CI%20-%232B2F33.svg?&style=for-the-badge&logo=travis)
 ![Jasmine](https://img.shields.io/badge/Jasmine%20-%238A4182.svg?&style=for-the-badge&logo=Jasmine&logoColor=FFFFFF) -->
