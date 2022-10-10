@@ -63,8 +63,8 @@
 
 ### Design | Wireframes
 
-![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
 ![Figma](https://img.shields.io/badge/-FIGMA-blueviolet?style=for-the-badge&logo=figma)
+![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
 
 <!-- ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop%20-%23001C25.svg?&style=for-the-badge&logo=Adobe%20Photoshop&logoColor=00C3F8)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator%20-%23251200.svg?&style=for-the-badge&logo=Adobe%20Illustrator&logoColor=F87900)
