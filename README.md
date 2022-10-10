@@ -11,6 +11,7 @@
 
 ![Materialize](https://img.shields.io/badge/Materialize%20-%23EE6E73.svg?&style=for-the-badge&logo=Materialize&logoColor=FFFFFF)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/jQuery%20-%231E2E3B.svg?&style=for-the-badge&logo=jQuery&logoColor=21ACE2)
 ![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?&style=for-the-badge&logo=Flask&logoColor=FFFFFF)
 ![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717)
