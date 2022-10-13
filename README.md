@@ -34,6 +34,7 @@
 ![repl.it](https://img.shields.io/badge/repl.it%20-%23101B30.svg?&style=for-the-badge&logo=repl.it&logoColor=93969C)
 [![CodePen](https://img.shields.io/badge/CodePen%20-%23000000.svg?&style=for-the-badge&logo=CodePen&logoColor=FFFFFF)](https://codepen.io)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp%20-%2300471b.svg?&style=for-the-badge&logo=freeCodeCamp&logoColor=F1BE32)](https://www.freecodecamp.org)
+[![Codecademy](https://img.shields.io/badge/-CODECADEMY-%231F4056?style=for-the-badge&logo=codecademy)] (https://www.codecademy.com/)
 
 ### Social
 
