@@ -82,3 +82,4 @@
 
 ![theopmw on GitHb](https://github-readme-stats.vercel.app/api?username=theopmw&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theopmw&layout=compact&langs_count=8&theme=algolia)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theopmw&theme=dark&date_format=j%20M%5B%20Y%5D&background=FFFFFF&dates=000000&sideLabels=000000)](https://git.io/streak-stats)
