@@ -2,7 +2,7 @@
 
 # THEO WRIGHT
 
-## Full Stack Software Developer
+### Full Stack Software Developer
 
 ---
 
