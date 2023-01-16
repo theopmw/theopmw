@@ -1,3 +1,17 @@
+![Banner Image](github-banner-image.jpeg)
+
+# THEO WRIGHT
+
+## Software Developer
+
+---
+
+### Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/theowrightlondon/)
+
+---
+
 ### Programming Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
@@ -7,7 +21,7 @@
 ![Sass](https://img.shields.io/badge/Sass%20-%23CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=FFFFFF)
 ![Markdown](https://img.shields.io/badge/Markdown%20-%23000000.svg?&style=for-the-badge&logo=Markdown&logoColor=FFFFFF)
 
-### Frameworks | Libraries | APIs
+### Frameworks, Libraries & APIs
 
 ![Materialize](https://img.shields.io/badge/Materialize%20-%23EE6E73.svg?&style=for-the-badge&logo=Materialize&logoColor=FFFFFF)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)
@@ -20,12 +34,9 @@
 ![Google Maps](https://img.shields.io/badge/Google%20Maps%20-%234285F4.svg?&style=for-the-badge&logo=Google%20Maps&logoColor=FFFFFF)
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome%20-%23339AF0.svg?&style=for-the-badge&logo=Font%20Awesome&logoColor=FFFFFF)
 
-<!-- ![Leaflet](https://img.shields.io/badge/Leaflet%20-%23199900.svg?&style=for-the-badge&logo=Leaflet&logoColor=C0E970) -->
-<!-- ![D3.js](https://img.shields.io/badge/D3.js%20-%23BD5350.svg?&style=for-the-badge&logo=D3.js&logoColor=F9A03C) -->
-
 ![Stripe](https://img.shields.io/badge/Stripe%20-%23646EDE.svg?&style=for-the-badge&logo=Stripe&logoColor=FFFFFF)
 
-### Version Control | Coding
+### Version Control, IDE's & Other Coding Content
 
 ![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=for-the-badge&logo=Git&logoColor=F05032)
 [![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/theopmw)
@@ -36,19 +47,11 @@
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp%20-%2300471b.svg?&style=for-the-badge&logo=freeCodeCamp&logoColor=F1BE32)](https://www.freecodecamp.org)
 [![Codecademy](https://img.shields.io/badge/-CODECADEMY-%231F4056?style=for-the-badge&logo=codecademy)](https://www.codecademy.com/)
 
-### Social
+<!-- ### Social -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/theowrightlondon/)
-![Slack](https://img.shields.io/badge/Slack%20-%234A154B.svg?&style=for-the-badge&logo=Slack&logoColor=FFFFFF)
+<!-- ![Slack](https://img.shields.io/badge/Slack%20-%234A154B.svg?&style=for-the-badge&logo=Slack&logoColor=FFFFFF) -->
 
 <!-- [![YouTube](https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=FFFFFF)](https://www.youtube.com/) -->
-
-### Hosting | SaaS | PaaS
-
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900)
-![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
-
-<!-- ![WordPress](https://img.shields.io/badge/WordPress%20-%23207196.svg?&style=for-the-badge&logo=WordPress&logoColor=FFFFFF) -->
 
 ### Databases
 
@@ -57,12 +60,15 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
 ![SQLite](https://img.shields.io/badge/SQLite%20-%23003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=FFFFFF)
 
-<!-- ### CI | Testing
+### Hosting
 
-![Travis CI](https://img.shields.io/badge/Travis%20CI%20-%232B2F33.svg?&style=for-the-badge&logo=travis)
-![Jasmine](https://img.shields.io/badge/Jasmine%20-%238A4182.svg?&style=for-the-badge&logo=Jasmine&logoColor=FFFFFF) -->
+![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
 
-### Design | Wireframes
+## Cloud Platforms
+
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900)
+
+### Design & Wireframes
 
 ![Figma](https://img.shields.io/badge/-FIGMA-blueviolet?style=for-the-badge&logo=figma)
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
